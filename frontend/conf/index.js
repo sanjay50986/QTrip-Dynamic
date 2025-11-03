@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://qtrip-dynamic-nu8h.onrender.com" };
+const config = { backendEndpoint: "https://qtrip-dynamic-hee4.onrender.com" };
 
 export default config;
